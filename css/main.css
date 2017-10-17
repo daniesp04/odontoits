@@ -1,0 +1,102 @@
+body{
+	font-family: 'Lato',sans-serif;
+background-color: #FFF2BF;
+}
+img{
+	max-width: 200px
+}
+.imag{
+	max-width: 40em;
+}
+.mediano{
+	font-size: 22px;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 100px
+}
+.espacio-abajo{
+	margin-bottom: 200px;
+}
+.courgette{
+	font-family: 'Courgette', cursive;
+}
+.rigtheous{
+	font-family: 'Righteous', cursive;
+}
+.grande{
+	font-size: 4em;
+}
+.G{
+	font-size: 3em;
+}
+.grandee{
+	font-size: 20px;
+}
+.beigh{
+	color: #E1AD5A
+}
+.eder{
+	margin-right: 15em;
+}
+.espacio-derecha{
+	margin-right: 1em;
+}
+.espderecha{
+	margin-right: 12em;
+}
+.espacioderecha{
+	margin-right: 2em;
+}
+.espacio-derechano{
+    margin-right: 0em;
+}
+.espacio-izquierda{
+	margin-left: 3em;
+}
+.mediano{
+	font-size: 25px;
+}
+.retraso-1{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-2{
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	animation-delay: 2s;
+}
+.justificado{
+	style=”text-align: justify;
+}
+a,p{
+	color: #E1AD5A
+}
+.hueso{
+	color: #FFFFF0
+}
+.b{
+	color: #F5F5F5
+}
+.durazno{
+	color: #F2845F
+}
+.cafe{
+	color: #AD6020;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.se-gris{
+	background-color: #132024
+}
+.padding-largo{
+	padding: 6px 12px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+}
